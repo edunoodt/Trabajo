@@ -2,3 +2,8 @@
 Definición de la materia: Hacer uso de la experiencia externa, reflexión, lectura de código, y mejorar la psicomotricidad de Programador.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    -Nota #2: 19-07-2021_Lunes:
+La idea sería leer un poco de código ajeno, y tratar de entender como la gente resuelve problemas. Empezemos por GitHub.
+Bueno, buscar interpretar código en GitHub parece mas facil de lo que es. Vayamos a buscar a Youtube.
+Hoy no estoy lo suficientemente lúcido como para leer, dado que me estoy durmiendo. Mejor lo dejamos para otro día.
