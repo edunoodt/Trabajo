@@ -1,0 +1,80 @@
+body{background-repeat: no-repeat;
+	background-color: black;
+    background-size: auto;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+a,
+h1,
+h3,
+h4,
+li,
+p,
+pre{color: lightgray;}
+
+a,
+li,
+p,
+pre,
+.Texto,
+.LinkedIn, .Facebook, .Instagram, .Twitter,
+strong{font-size:25px;}
+
+
+pre {text-align: center;
+    font-size:25px;
+}
+strong {text-align: left;
+    font-size:25px;
+}
+
+
+.SuperClass{margin:auto;}
+
+
+
+.Box{border-style: none;
+    margin:1;
+	border-size:auto;
+	align-top: center;}
+
+
+.Profile{background: rgba(38, 76, 220, 0.7);
+		margin: 1px 1px;
+		border-style: inset;
+		border-radius: 10px;
+		border-color: rgba(38, 167, 220, 0.7);}
+.Profile_Picture{margin: 10px 10px;}
+.Contacto,
+.Telefono:hover,
+.E-Mail:hover,
+.LinkedIn:hover,
+.Facebook:hover,
+.Instagram:hover,
+.Twitter:hover {margin: 2px 2px;
+    font-size:25px;
+}
+
+
+div{display: table-cell;
+	align:center;
+    font-size:25px;
+}
+
+
+.Curriculum_Body{allign-top:center;
+                background: rgba(88, 118, 131, 0.7);
+				border-style: inset;
+				border-radius: 10px;
+				border-color: rgba(69, 166, 205,0.7);
+				background-size: auto;
+				margin: 1px 1px}
+.Name{margin: 80px 80px}
+.Estudio,
+.Trabajo{text-align: center;}
+.Texto{text-align: left;
+		margin: 8px 8px;
+    font-size:25px;
+}
+
