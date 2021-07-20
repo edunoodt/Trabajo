@@ -2,7 +2,7 @@ numeros = []
 numero = ''
 
 def lectura(numeros):
-    for i in range (0, len(numeros) - 1):
+    for i in range (0, len(numeros)):
         suma = numeros[i] + numeros[i + 1]
     return suma
 
