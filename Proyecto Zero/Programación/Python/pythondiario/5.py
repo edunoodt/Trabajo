@@ -1,13 +1,18 @@
 numeros = []
-numero = 0
+numero = ''
+
+def lectura(numeros):
+    for i in range (0, len(numeros) - 1):
+        suma = numeros[i] + numeros[i + 1]
+    return suma
+
 
 while numero != '*':
-    numero = input('Ingrese un número al azar...\n("*" para finalizar).\n\n')
-    numeros.append(int(numero))
-    numero = str(numero)
+    numero = input('Ingrese un número ("*" para finalizar.) :')
+    if numero != '*':
+        numeros.append(int(numero))
 
-def sum(numeros):
-    for n in range(0, len(numeros)):
-        print(n)
+suma = lectura(numeros)
 
-sum(numeros)
+print(len(numeros))
+#print(numeros, '\n' + str(suma))

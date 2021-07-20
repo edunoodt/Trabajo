@@ -7,3 +7,7 @@ Definición de la materia: Hacer uso de la experiencia externa, reflexión, lect
 La idea sería leer un poco de código ajeno, y tratar de entender como la gente resuelve problemas. Empezemos por GitHub.
 Bueno, buscar interpretar código en GitHub parece mas facil de lo que es. Vayamos a buscar a Youtube.
 Hoy no estoy lo suficientemente lúcido como para leer, dado que me estoy durmiendo. Mejor lo dejamos para otro día.
+
+    -Nota #3: 20-07-2021_Lunes:
+Bueno, hoy podemos tomar la práctica del Proyecto Grupote y su video de elaboración de la web de la Universidad, como escusa para aprender sobre código ajeno.
+Bien. Haciendo eso llegamos hasta el minuto 16:44 siguiendo los pasos, y repitiendo todo lo que estaba haciendo.
