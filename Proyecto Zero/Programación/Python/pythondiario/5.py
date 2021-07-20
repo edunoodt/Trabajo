@@ -3,8 +3,8 @@ numero = ''
 
 def lectura(numeros):
     suma=0
-    for i in range (0, len(numeros)):
-        suma += numeros[i]
+    for i in numeros:
+        suma += i
     return suma
 
 
